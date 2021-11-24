@@ -1,0 +1,18 @@
+   lcd.setCursor(0, 0);
+   lcd.print("*** first line.");
+   lcd.setCursor(0, 1);
+   lcd.print("*** second line.");
+   lcd.setCursor(0, 2);
+   lcd.print("*** 3 line.");
+   lcd.setCursor(0, 3); */
+/* lcd.scrollDisplayLeft();
+   lcd.scrollDisplayLeft();
+   lcd.scrollDisplayRight();
+   lcd.display();
+   lcd.home();
+   lcd.clear();
+   lcd.blink();
+   lcd.noBlink();
+   lcd.blink();
+   lcd.noCursor();
+   lcd.noDisplay(); 
